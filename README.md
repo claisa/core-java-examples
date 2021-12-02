@@ -11,6 +11,7 @@
 
 Javadoc documentation available in **doc/index.html**
 
-java-examples was built using Maven - documentation available in **target/site**
+java-examples was built using Maven - documentation available in **target/site/index.html**
 
-Test execution environment: JUnit integrated into Eclipse IDE
+Test execution environment: JUnit integrated into Eclipse IDE Version: 2021-09 (4.21.0) Build id: 20210910-1417
+
