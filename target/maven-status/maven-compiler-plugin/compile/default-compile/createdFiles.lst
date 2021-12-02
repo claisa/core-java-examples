@@ -1,0 +1,5 @@
+jencapsulation\Product.class
+app\App.class
+customannotations\Size.class
+customannotations\SizeException.class
+customannotations\SizeHandler.class

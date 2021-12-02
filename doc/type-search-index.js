@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"app","l":"App"},{"p":"jencapsulation","l":"Product"},{"p":"apptests","l":"ProductTest"},{"p":"customannotations","l":"Size"},{"p":"customannotations","l":"SizeException"},{"p":"customannotations","l":"SizeHandler"}];updateSearchResults();
